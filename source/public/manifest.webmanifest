@@ -1,0 +1,11 @@
+{
+  "name": "بوابة القرآن الكريم",
+  "short_name": "بوابة القرآن",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./#/home",
+  "display": "standalone",
+  "background_color": "#fbfaf6",
+  "theme_color": "#102f27",
+  "icons": [{"src":"assets/images/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
